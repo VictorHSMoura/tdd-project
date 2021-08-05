@@ -1,0 +1,2 @@
+1. Os testes de unidade são feitos para executar mais rapidamente e com maior frequência. Já os testes funcionais geralmente demoram mais na execução, principalmente por conta de dependências externas, como APIs externas, banco de dados, etc. Sendo assim, eles são executados com menor frequência.
+2. Os testes de unidade são focados em testar pequenas unidades de código isoladamente. Já os testes funcionais buscam exercitar uma funcionalidade completa do sistema, ou partes de uma funcionalidade.
